@@ -10,5 +10,6 @@ for ( let i = 0; i < 1000;++i){
     if(num == N ){
         num = 0
     }
+     
     
 }
